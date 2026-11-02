@@ -1,6 +1,6 @@
 # How I build with AI agents
 
-I'm Eaven Portillo. After years of running engineering teams, Claude brought me back to hands-on engineering, and I now spend 14 to 18 hours a day in Claude Code.
+I'm Eaven Portillo. After years of running engineering teams, LLM's brought me back to hands-on engineering, and I now spend 14 to 18 hours a day in my favorite harnesses.
 
 I run agents the way I ran teams: each one gets a role, a written brief and a check it must pass, and nothing merges on its own say-so. Most of the projects below are Roblox game tooling. The games are incidental; the method is the point.
 
